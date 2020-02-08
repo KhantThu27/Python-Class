@@ -1,0 +1,40 @@
+user name - KhantThu27
+email     - khantthukt@gmail.com
+password  - 
+
+cd path - go to directory 
+
+first time (new repository)
+			git init
+			git add
+			git config global user.email "khantthukt@gmail.com
+			git config global user.name "KhantThu27"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/moeheinkhant1012/Sample.git
+			git push -u origin master
+
+(New Repository for New Project)
+			git init
+			git add
+			git config global user.email"khantthukt@gmail.com"
+			git config global user.name "KhantThu27"
+
+			git commit- m"first commit"
+			git remote add origin https://github.com/CHITMINTHU123/Sample.git
+			git push -u origin master
+
+(Old Repository For Existing Project)
+			git add.
+			git commit -m "second commit"
+			git push
+
+(Existing Project To Other Laptop)
+			
+			git pull
+			
+(Other Person Project To Own Laptop)
+			
+			git clone https://github.com/KhantThu27/Sample.git
+
+
