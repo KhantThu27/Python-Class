@@ -1,6 +1,6 @@
 user name - KhantThu27
 email     - khantthukt@gmail.com
-password  - 
+password  - Kt271100!
 
 cd path - go to directory 
 
@@ -17,8 +17,8 @@ first time (new repository)
 (New Repository for New Project)
 			git init
 			git add
-			git config global user.email"khantthukt@gmail.com"
-			git config global user.name "KhantThu27"
+			git config --global user.email"khantthukt@gmail.com"
+			git config --global user.name "KhantThu27"
 
 			git commit- m"first commit"
 			git remote add origin https://github.com/CHITMINTHU123/Sample.git
@@ -28,7 +28,7 @@ first time (new repository)
 			git add.
 			git commit -m "second commit"
 			git push
-
+/Users/khantthu/Desktop/Python Class/Python Code
 (Existing Project To Other Laptop)
 			
 			git pull
