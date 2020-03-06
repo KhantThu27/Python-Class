@@ -97,3 +97,34 @@ for x in NumberA:
 #Pass 
 
 for x in [1, 2, 3, 4, 5]:
+	if x == 3:
+		pass
+	print(x)
+
+-------------
+
+words = ['cat', 'window', 'defenestrate']
+for w in words:
+	print(w, len(w))
+
+
+-------------
+
+for n in range(2, 21):
+	for x in range(2, n):
+		if n % x == 0:
+			print(n, 'equals', x, '*', n//x)
+			break
+	else:
+		#loop fell through without finding a factor
+		print(n, 'is a prime number')
+
+-------------
+
+for num in range(2, 10):
+	if num % 2 == 0:
+		print("Found an even number", num)
+		continue
+		num += 10
+		print("Number is", num)
+	print("Found a number", num)

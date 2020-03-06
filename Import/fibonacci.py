@@ -23,6 +23,4 @@ def fib2(n):	# return Fibonacci series up to n
 		a, b = b, a+b
 		return result
 
-
-
 # ... fib #import
