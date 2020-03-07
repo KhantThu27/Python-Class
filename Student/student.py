@@ -1,5 +1,3 @@
-# student.py
-
 a = {
 	"student" : "Mg Mg",
 	"age" : 18,
@@ -17,3 +15,5 @@ b = {
 	"mother" : "Daw Ba"
 
 }
+
+student.py

@@ -1,5 +1,3 @@
-# result.py
-
 import student
 import mary
 
@@ -10,5 +8,11 @@ print(x , ' ', y, ' ', z)
 
 i = student.a["mother"]
 print(i)
+
 for i in range(len(mary.a)):
 	print(i, mary.a[i])
+
+
+result.py
+
+#>>> File input/output
